@@ -1,0 +1,9 @@
+# Ignorisanje kompajliranih fajlova
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+
+# Ignorisanje VSCode postavki
+.vscode/
